@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Pluto71
+/src/backend/database.py      @Pluto71
+/src/backend/routers/auth.py  @Pluto71
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Pluto71
